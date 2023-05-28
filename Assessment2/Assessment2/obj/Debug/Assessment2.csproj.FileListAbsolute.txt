@@ -1,0 +1,13 @@
+C:\Users\Joh\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.exe.config
+C:\Users\Joh\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.exe
+C:\Users\Joh\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.pdb
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.Properties.Resources.resources
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.GenerateResource.cache
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.exe
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.pdb
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.FormReigister.resources
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.FormMain.resources
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.FormEdit.resources
+C:\Users\Joh\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.FormAbout.resources
